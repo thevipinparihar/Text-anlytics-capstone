@@ -177,27 +177,6 @@ Analyze YouTube comments and predict engagement using sentiment + TF-IDF.
 
 ---
 
-# 🎯 Project Architecture  
--- data/
-| └── breast_cancer_text_social_web_data.csv
-|
-|-- notebooks/
-| ├── use_case_1_sentiment.ipynb
-| ├── use_case_2_topic_modeling.ipynb
-| ├── use_case_3_emotion_detection.ipynb
-| ├── use_case_4_web_trends.ipynb
-| └── use_case_5_youtube_analytics.ipynb
-|
-|-- outputs/
-| ├── sentiment_results.csv
-| ├── topics_table.csv
-| ├── emotion_results.csv
-| ├── web_trend_results.csv
-| ├── youtube_engagement_results.csv
-|
-└── README.md
----
-
 # 🏆 Key Insights Across All Cases
 - Public sentiment on awareness posts leans **neutral–positive**, but predictive accuracy is limited.  
 - Topic modeling identifies **5 strong awareness themes**.  
